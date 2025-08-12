@@ -17,6 +17,7 @@ img,video{
     max-width: 100%;
 }
 body{
+        background-color: black;
    height: 100vh;
    background-color: #FAF7F3;
    
@@ -1344,6 +1345,7 @@ footer a:hover{
       padding: 30px 10px ;
 }
 }
+
 
 
 
